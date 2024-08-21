@@ -1,0 +1,15 @@
+D:\Desktop\sebas\taller\bin\Debug\net8.0\taller.exe
+D:\Desktop\sebas\taller\bin\Debug\net8.0\taller.deps.json
+D:\Desktop\sebas\taller\bin\Debug\net8.0\taller.runtimeconfig.json
+D:\Desktop\sebas\taller\bin\Debug\net8.0\taller.dll
+D:\Desktop\sebas\taller\bin\Debug\net8.0\taller.pdb
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.AssemblyInfoInputs.cache
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.AssemblyInfo.cs
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.csproj.CoreCompileInputs.cache
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.dll
+D:\Desktop\sebas\taller\obj\Debug\net8.0\refint\taller.dll
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.pdb
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.genruntimeconfig.cache
+D:\Desktop\sebas\taller\obj\Debug\net8.0\ref\taller.dll
+D:\Desktop\sebas\taller\obj\Debug\net8.0\taller.sourcelink.json
